@@ -102,7 +102,7 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>akash</name>
+	      <name>akash premi</name>
 	      <url>http://13.54.57.158:8081/repository/akash/</url>
 	    </snapshotRepository>
 	    
