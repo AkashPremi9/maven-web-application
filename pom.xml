@@ -96,14 +96,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.54.57.158:8081/repository/canarabank-releases/</url>
+	      <name>akash</name>
+	      <url>http://13.54.57.158:8081/repository/akash/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.54.57.158:8081/repository/canarabank-snapshot/</url>
+	      <name>akash</name>
+	      <url>http://13.54.57.158:8081/repository/akash/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
