@@ -96,13 +96,13 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>akash premi</name>
+	      <name>admin</name>
 	      <url>http://13.54.57.158:8081/repository/canarabank-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>akash premi</name>
+	      <name>admin</name>
 	      <url>http://13.54.57.158:8081/repository/canarabank-snapshot/</url>
 	    </snapshotRepository>
 	    
