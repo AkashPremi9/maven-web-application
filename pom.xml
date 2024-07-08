@@ -96,14 +96,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>akash</name>
-	      <url>http://13.54.57.158:8081/repository/akash/</url>
+	      <name></name>
+	      <url></url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>akash premi</name>
-	      <url>http://13.54.57.158:8081/repository/akash/</url>
+	      <name></name>
+	      <url></url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
