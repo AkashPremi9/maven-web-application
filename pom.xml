@@ -95,15 +95,15 @@
 	<distributionManagement>
 	
 	    <repository>
-	      <id></id>
-	      <name></name>
-	      <url></url>
+	      <id>nexus</id>
+	      <name>canarabank-repo-release</name>
+	      <url>http://52.62.221.68:8081/repository/canarabank-repo-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id></id>
-	      <name></name>
-	      <url></url>
+	      <name>canarabank-repo-snapshot</name>
+	      <url>http://52.62.221.68:8081/repository/canarabank-repo-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
