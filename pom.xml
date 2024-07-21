@@ -101,7 +101,7 @@
 	    </repository>
 	    
 	    <snapshotRepository>
-	      <id></id>
+	      <id>nexus</id>
 	      <name>canarabank-repo-snapshot</name>
 	      <url>http://52.62.221.68:8081/repository/canarabank-repo-snapshot/</url>
 	    </snapshotRepository>
